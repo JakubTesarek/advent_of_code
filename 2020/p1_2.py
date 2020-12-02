@@ -1,4 +1,4 @@
-with open('input/2', 'r') as input_file:
+with open('input/1-2', 'r') as input_file:
     nums = [int(line) for line in input_file.readlines()]
 
 for num1 in nums:
